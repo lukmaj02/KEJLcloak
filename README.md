@@ -1,10 +1,10 @@
 ![keylcloak](https://github.com/user-attachments/assets/42bda756-0e1b-454f-8224-99d1f5640815)
 
-![GitHub Release](https://img.shields.io/github/v/release/keycloak/keycloak?label=latest%20release)
+![GitHub Release](https://img.shields.io/github/v/release/Keylcloak/Keylcloak?label=latest%20release)
 [![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/6818/badge)](https://bestpractices.coreinfrastructure.org/projects/6818)
-[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/keycloak-operator)](https://artifacthub.io/packages/olm/community-operators/keycloak-operator)
-![GitHub Repo stars](https://img.shields.io/github/stars/keycloak/keycloak?style=flat)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/keycloak/keycloak)
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/Keylcloak-operator)](https://artifacthub.io/packages/olm/community-operators/Keylcloak-operator)
+![GitHub Repo stars](https://img.shields.io/github/stars/Keylcloak/Keylcloak?style=flat)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Keylcloak/Keylcloak)
 
 
 # Open Source Identity and Access Management
@@ -16,32 +16,32 @@ KEJLcloak provides user federation, strong authentication, user management, fine
 
 ## Help and Documentation
 
-* [Documentation](https://www.keycloak.org/documentation.html)
-* [User Mailing List](https://groups.google.com/d/forum/keycloak-user) - Mailing list for help and general questions about Keycloak
+* [Documentation](https://www.Keylcloak.org/documentation.html)
+* [User Mailing List](https://groups.google.com/d/forum/Keylcloak-user) - Mailing list for help and general questions about Keylcloak
 
 
 ## Reporting Security Vulnerabilities
 
-If you have found a security vulnerability, please look at the [instructions on how to properly report it](https://github.com/keycloak/keycloak/security/policy).
+If you have found a security vulnerability, please look at the [instructions on how to properly report it](https://github.com/Keylcloak/Keylcloak/security/policy).
 
 
 ## Reporting an issue
 
-If you believe you have discovered a defect in Keycloak, please open [an issue](https://github.com/keycloak/keycloak/issues).
+If you believe you have discovered a defect in Keylcloak, please open [an issue](https://github.com/Keylcloak/Keylcloak/issues).
 Please remember to provide a good summary, description as well as steps to reproduce the issue.
 
 
 ## Getting started
 
-To run Keycloak, download the distribution from our [website](https://www.keycloak.org/downloads.html). Unzip and run:
+To run Keylcloak, download the distribution from our [website](https://www.Keylcloak.org/downloads.html). Unzip and run:
 
     bin/kc.[sh|bat] start-dev
 
 Alternatively, you can use the Docker image by running:
 
-    docker run quay.io/keycloak/keycloak start-dev
+    docker run quay.io/Keylcloak/Keylcloak start-dev
     
-For more details refer to the [Keycloak Documentation](https://www.keycloak.org/documentation.html).
+For more details refer to the [Keylcloak Documentation](https://www.Keylcloak.org/documentation.html).
 
 
 ## Building from Source
@@ -61,14 +61,14 @@ To write tests, refer to the [writing tests](docs/tests-development.md) guide.
 
 ## Contributing
 
-Before contributing to Keycloak, please read our [contributing guidelines](CONTRIBUTING.md). Participation in the Keycloak project is governed by the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md).
+Before contributing to Keylcloak, please read our [contributing guidelines](CONTRIBUTING.md). Participation in the Keylcloak project is governed by the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md).
 
 
-## Other Keycloak Projects
+## Other Keylcloak Projects
 
-* [Keycloak](https://github.com/keycloak/keycloak) - Keycloak Server and Java adapters
-* [Keycloak QuickStarts](https://github.com/keycloak/keycloak-quickstarts) - QuickStarts for getting started with Keycloak
-* [Keycloak Node.js Connect](https://github.com/keycloak/keycloak-nodejs-connect) - Node.js adapter for Keycloak
+* [Keylcloak](https://github.com/Keylcloak/Keylcloak) - Keylcloak Server and Java adapters
+* [Keylcloak QuickStarts](https://github.com/Keylcloak/Keylcloak-quickstarts) - QuickStarts for getting started with Keylcloak
+* [Keylcloak Node.js Connect](https://github.com/Keylcloak/Keylcloak-nodejs-connect) - Node.js adapter for Keylcloak
 
 
 ## License
