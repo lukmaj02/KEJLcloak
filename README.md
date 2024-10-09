@@ -1,4 +1,4 @@
-![Keycloak](https://github.com/keycloak/keycloak-misc/blob/main/logo/logo.svg)
+![keylcloak](https://github.com/user-attachments/assets/42bda756-0e1b-454f-8224-99d1f5640815)
 
 ![GitHub Release](https://img.shields.io/github/v/release/keycloak/keycloak?label=latest%20release)
 [![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/6818/badge)](https://bestpractices.coreinfrastructure.org/projects/6818)
